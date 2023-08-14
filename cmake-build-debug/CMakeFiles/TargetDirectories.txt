@@ -1,0 +1,3 @@
+C:/Users/Aghda/CLionProjects/EX003/02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aghda/CLionProjects/EX003/02/cmake-build-debug/CMakeFiles/EX03_2.dir
+C:/Users/Aghda/CLionProjects/EX003/02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
